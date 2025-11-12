@@ -55,3 +55,8 @@
   transform: rotate(90deg);
   /* Fait pivoter le bouton de menu de 90 degrés lorsqu'il est en état "expanded" */
 }
+
+body.noscroll {
+  overflow: hidden;
+  /* empêche le défilement de la page */
+}
